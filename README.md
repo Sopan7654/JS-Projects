@@ -1,4 +1,5 @@
 # JS-Projects
+#(1.Password Generator)
 Password Generator is a simple yet powerful tool designed to help users create strong and secure passwords.
  Leveraging modern JavaScript, this project provides an intuitive interface for generating passwords with customizable options such as length, inclusion of special characters, numbers, and uppercase/lowercase letters. Whether you need a password for your online accounts, applications, or any other use case, Password Generator ensures your credentials are robust and hard to crack.
 
